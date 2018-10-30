@@ -1702,5 +1702,6 @@ footer
     .image-slider-wrapper.service a.image_slider_next
     {
         top: -84px;
+        line-height: 22px;
     }
 }
